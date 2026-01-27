@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarah 👋</h1>
 <p align="center">
-  QE Automation Engineer • Software Developer • Human-Centered AI Masters student • Girl Gamer • Plant Powered Runner
+  QE Automation Engineer • Software Developer • Human-Centered AI Masters Student • Girl Gamer • Plant Powered Runner
 </p>
 
 <p align="center">
@@ -19,12 +19,17 @@
 ---
 
 ## ✨ About me
+
 - 🧪 QA Automation Engineer / Software Developer  
 - 💻 Working with Playwright, Cypress, Postman, React & TypeScript  
 - 🎓 Studying **Human-Centered Artificial Intelligence** (TU Dublin)  
+- 🌍 Based in Co. Dublin, Ireland  
+- 🗣️ English • Japanese • Irish
+- 😄 Pronouns: She/Her
+- 🧩 I enjoy turning flaky test suites into reliable signals  
 - 🏃‍♀️ Running & hiking with my two dogs when I need to reset my brain 🐕🐕  
-- 🎮 Big fan of games that either **relax me** or **stress me out in a all the fun way**
-
+- 🎮 Big fan of games that live at the extremes: cosy vibes or full survival horror (*Resident Evil vibes*)
+- 🏔️ Always up for trail recommendations, running challenges, or game suggestions
 ---
 
 ## 🎮 Gaming corner
@@ -75,15 +80,6 @@ My favourite genres sit at two very different ends of the emotional spectrum:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BrightWorgan&hide_border=true&theme=tokyonight" />
 </p>
----
-
-## 🧠 Quick facts
-- 🌍 Based in Co. Dublin, Ireland  
-- 🗣️ English • Japanese • Irish  
-- 🧩 I enjoy turning flaky test suites into reliable signals  
-- 🏔️ Always up for trail recommendations or game suggestions
-- 😄 Pronouns: She/Her
-
 ---
 
 
