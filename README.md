@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Sarah 👋</h1>
 <p align="center">
-  QE Automation Engineer • Software Developer • Human-Centered AI Masters student • Girl Gamer  • Plant Powered Runner
+  QE Automation Engineer • Software Developer • Human-Centered AI Masters student • Girl Gamer • Plant Powered Runner
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/sarah-fitzsimons/](https://www.linkedin.com/in/sarah-fitzsimons-369b1414b/)">
+  <a href="https://www.linkedin.com/in/sarah-fitzsimons-369b1414b/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sarah%20Fitzsimons-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/BrightWorgan">
