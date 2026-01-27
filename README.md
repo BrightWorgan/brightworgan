@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarah-fitzsimons/">
+  <a href="[https://www.linkedin.com/in/sarah-fitzsimons/](https://www.linkedin.com/in/sarah-fitzsimons-369b1414b/)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sarah%20Fitzsimons-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/BrightWorgan">
@@ -61,11 +61,6 @@ My favourite genres sit at two very different ends of the emotional spectrum:
 - Building stable, trustworthy E2E + API test suites  
 - Improving developer experience through better test feedback  
 - Exploring how AI can support humans instead of getting in their way  
-
----
-
-## 📌 Pinned projects
-> Check out my pinned repos for a snapshot of what I’ve been working on:
 
 ---
 
