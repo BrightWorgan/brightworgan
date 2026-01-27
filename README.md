@@ -73,9 +73,8 @@ My favourite genres sit at two very different ends of the emotional spectrum:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BrightWorgan&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=BrightWorgan&hide_border=true&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🧠 Quick facts
