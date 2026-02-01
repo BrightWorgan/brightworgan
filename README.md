@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarah 👋</h1>
+<h1 align="center">Hi, I'm Sarah! </h1>
 <p align="center">
   QE Automation Engineer • Software Developer • Human-Centered AI Masters Student • Girl Gamer • Plant Powered Runner
 </p>
@@ -77,9 +77,9 @@ My favourite genres sit at two very different ends of the emotional spectrum:
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrightWorgan&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BrightWorgan&hide_border=true&theme=tokyonight" />
-</p>
+</p> -->
 ---
 
 
