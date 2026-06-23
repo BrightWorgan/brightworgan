@@ -39,7 +39,7 @@ My favourite genres sit at two very different ends of the emotional spectrum:
   *Stardew Valley*, anything with farming, vibes, and gentle chaos  
 
 - 🧟 **Survival / Horror**  
-  *Resident Evil*   *The Forest*  — tension, atmosphere, puzzles, and excellent pacing  
+  *Resident Evil* ,  *The Forest*  — tension, atmosphere, puzzles, and excellent pacing  
 
 - 🌊 **Open-world exploration**  
   *Subnautica*, *The Witcher* — getting lost, environmental storytelling, and “what’s over there?” vibe - Yes I pick up everything and do all of the side quests even the frying pan!  
