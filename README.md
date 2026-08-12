@@ -63,9 +63,9 @@ My favourite genres sit at two very different ends of the emotional spectrum:
 ---
 
 ## 🔭 What I’m focused on
+- Exploring how AI can support humans instead of getting in their way  
 - Building stable, trustworthy E2E + API test suites  
 - Improving developer experience through better test feedback  
-- Exploring how AI can support humans instead of getting in their way  
 - Trying to perfect the best vegan pizza recipe
 
 <!-- ## GitHub stats
