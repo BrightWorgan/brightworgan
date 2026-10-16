@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarah! </h1>
 <p align="center">
-  QE Automation Engineer • Software Developer • Human-Centered AI Masters Student • Girl Gamer • Plant Powered Runner
+ Software Developer with a focus in machine learning and complaince • Human-Centered AI Masters Student • Girl Gamer • Plant Powered Runner
 </p>
 
 <p align="center">
