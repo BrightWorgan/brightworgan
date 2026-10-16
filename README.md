@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarah! </h1>
 <p align="center">
- Software Developer with a focus in machine learning and complaince • Human-Centered AI Masters Student • Girl Gamer • Plant Powered Runner
+ Software Developer • Human-Centered AI Masters Student • Girl Gamer • Plant Powered Runner
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 ## ✨ About me
 
-- 🧪 QA Automation Engineer / Software Developer  
-- 💻 Working with Playwright, Cypress, Postman, React & TypeScript  
+- 🧪 Software Developer with a focus on machine learning and compliance
+- 💻 Working across Python, TypeScript, React, AWS Bedrock, Jupyter, Playwright, Cypress & Postman
 - 🎓 Studying **Human-Centered Artificial Intelligence** (TU Dublin)  
 - 🌍 Based in Co. Dublin, Ireland  
 - 🗣️ English • Japanese • Irish
@@ -48,17 +48,26 @@ My favourite genres sit at two very different ends of the emotional spectrum:
 
 ## 🧰 Tech I work with
 <p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
 
 ---
 
